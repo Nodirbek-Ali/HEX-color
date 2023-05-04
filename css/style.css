@@ -1,0 +1,17 @@
+body {
+  background-color: rgb(30, 144, 255);
+}
+h1 {
+  background-color: rgba(0, 0, 0, 0.3);
+  color: gold;
+}
+p {
+  /* 0123456789abcdef */
+  /* background-color: #rrggbb; */
+  background-color: #ff7500;
+  color: #fff;
+  /* #ff0000 -> #f00 */
+}
+/* RGB (RGBA) */
+/* HEX (16 lik sanoq tizimi */
+/* HSL - hue, saturation, lightness */
